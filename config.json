@@ -21,7 +21,7 @@
   ],
   "webview": [
     {
-      "web_url": "https://ppid.rri.go.id/berita",
+      "web_url": "https://bild.de",
       "web_toolbar": "false"
     }
   ],
@@ -90,4 +90,5 @@
       "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
     }
   ]
+
 }
