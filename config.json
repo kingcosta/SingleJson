@@ -1,0 +1,93 @@
+{
+  "radio": [
+    {
+      "radio_name": "RRI Radio Streaming",
+      "radio_genre": "RRI PRO 3",
+      "radio_url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+      "radio_image_url": "https://radio-online.id/assets/image/radio/180/rri_pro_3.png",
+      "song_metadata": "true",
+      "image_album_art": "true",
+      "auto_play": "false"
+    }
+  ],
+  "video": [
+    {
+      "channel_name": "RRI NET Live",
+      "channel_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "channel_thumbnail": "https://i.ytimg.com/vi/bb26zGszBhM/hq720.jpg",
+      "channel_description": "<p>A channel owned by Radio Republik Indonesia that presents various kinds of radio broadcasts both on air and off air, studio and outside studio events containing music broadcasts, talk shows and others.</p><p>RRI NET is not a traditional TV station, but a visual radio channel that enriches public radio with live video, modernizing RRI’s output and making it more engaging for contemporary audiences via satellite and digital platforms.</p><p>RRI NET currently broadcasts visual versions of selected programs on five of RRI's main radio stations (RRI Programa 1, RRI Programa 2, RRI Programa 3, RRI Programa 4, and a relay of Voice of Indonesia, with programs from RRI Programa 1, 2, and 4 originating from stations in Jakarta. However, RRI Programa 3's news programs account for the largest portion of the channel's total broadcast hours.</p>",
+      "channel_vast_ads_tag_url": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
+    }
+  ],
+  "webview": [
+    {
+      "web_url": "https://ppid.rri.go.id/berita",
+      "web_toolbar": "false"
+    }
+  ],
+  "settings": [
+    {
+      "app_status": "1",
+      "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "redirect_url": "",
+      "show_social_menu_on_radio_page": "true",
+      "show_social_menu_on_video_page": "true"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "1",
+      "main_ads": "admob",
+      "backup_ads": "none",
+      "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "ad_manager_banner_id": "/6499/example/banner",
+      "ad_manager_interstitial_id": "/6499/example/interstitial",
+      "ad_manager_native_id": "/6499/example/native",
+      "ad_manager_app_open_id": "/6499/example/app-open",
+      "fan_banner_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+      "fan_native_id": "YOUR_PLACEMENT_ID",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_id": "banner",
+      "unity_interstitial_id": "video",
+      "applovin_max_banner_id": "0",
+      "applovin_max_interstitial_id": "0",
+      "applovin_max_native_manual_id": "0",
+      "applovin_max_app_open_id": "0",
+      "applovin_discovery_banner_zone_id": "0",
+      "applovin_discovery_interstitial_zone_id": "0",
+      "applovin_discovery_mrec_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Website",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
+      "social_url": "https://solodroid.net?target=internal"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
+      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
+      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
+      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
+    }
+  ]
+}
