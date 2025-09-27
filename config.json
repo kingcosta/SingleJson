@@ -1,10 +1,10 @@
 {
   "radio": [
     {
-      "radio_name": "RRI Radio Streaming",
-      "radio_genre": "RRI PRO 3",
+      "radio_name": "BunkerTV",
+      "radio_genre": "Techno, Progressive, House",
       "radio_url": "https://bunkertv.org:8003/listen.pls",
-      "radio_image_url": "https://radio-online.id/assets/image/radio/180/rri_pro_3.png",
+      "radio_image_url": "https://bunkertv.org/css/img/logo.jpg",
       "song_metadata": "true",
       "image_album_art": "true",
       "auto_play": "false"
@@ -71,27 +71,18 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
-      "social_url": "https://solodroid.net?target=internal"
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_url": "https://bunkertv.org"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
-      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs"
-    },
-    {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
-      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
-      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
+      "social_url": "https://www.facebook.com/bunkertv.org"
     }
   ]
 
 }
+
 
 
 
