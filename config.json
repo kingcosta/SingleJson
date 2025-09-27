@@ -71,7 +71,7 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_icon": "https://github.com/kingcosta/SingleJson/blob/99d7186066b5e79948ee5936a1a7fe86e92097a6/ic_web.png",
       "social_url": "https://bunkertv.org"
     },
     {
@@ -82,6 +82,7 @@
   ]
 
 }
+
 
 
 
