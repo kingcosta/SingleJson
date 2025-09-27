@@ -71,17 +71,18 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/kingcosta/SingleJson/99d7186066b5e79948ee5936a1a7fe86e92097a6/ic_web.png",
+      "social_icon": "https://raw.githubusercontent.com/kingcosta/SingleJson/refs/heads/main/ic_web.png",
       "social_url": "https://bunkertv.org"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/kingcosta/SingleJson/99d7186066b5e79948ee5936a1a7fe86e92097a6/ic_facebook.png",
+      "social_icon": "https://raw.githubusercontent.com/kingcosta/SingleJson/refs/heads/main/ic_facebook.png",
       "social_url": "https://www.facebook.com/bunkertv.org"
     }
   ]
 
 }
+
 
 
 
