@@ -3,7 +3,7 @@
     {
       "radio_name": "RRI Radio Streaming",
       "radio_genre": "RRI PRO 3",
-      "radio_url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+      "radio_url": "https://bunkertv.org:8003/listen.pls",
       "radio_image_url": "https://radio-online.id/assets/image/radio/180/rri_pro_3.png",
       "song_metadata": "true",
       "image_album_art": "true",
@@ -13,7 +13,7 @@
   "video": [
     {
       "channel_name": "RRI NET Live",
-      "channel_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "channel_url": "https://xdoco.com/xdoco/index.m3u8",
       "channel_thumbnail": "https://i.ytimg.com/vi/bb26zGszBhM/hq720.jpg",
       "channel_description": "<p>A channel owned by Radio Republik Indonesia that presents various kinds of radio broadcasts both on air and off air, studio and outside studio events containing music broadcasts, talk shows and others.</p><p>RRI NET is not a traditional TV station, but a visual radio channel that enriches public radio with live video, modernizing RRI’s output and making it more engaging for contemporary audiences via satellite and digital platforms.</p><p>RRI NET currently broadcasts visual versions of selected programs on five of RRI's main radio stations (RRI Programa 1, RRI Programa 2, RRI Programa 3, RRI Programa 4, and a relay of Voice of Indonesia, with programs from RRI Programa 1, 2, and 4 originating from stations in Jakarta. However, RRI Programa 3's news programs account for the largest portion of the channel's total broadcast hours.</p>",
       "channel_vast_ads_tag_url": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
@@ -92,3 +92,4 @@
   ]
 
 }
+
