@@ -32,7 +32,7 @@
       "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
       "redirect_url": "",
       "show_social_menu_on_radio_page": "true",
-      "show_social_menu_on_video_page": "true"
+      "show_social_menu_on_video_page": "false"
     }
   ],
   "ads": [
@@ -82,6 +82,7 @@
   ]
 
 }
+
 
 
 
